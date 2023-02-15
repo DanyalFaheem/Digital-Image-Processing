@@ -1,0 +1,2 @@
+123346789
+b,d,c,c,-1,a,e,c,e,-1,d,c,e,b,c,-1,c,a,c,e,-1,a,-1,d,b,a,b,-1,b,a,d,c,d,-1,-1,b,e,b,a,a,c,d,c,-1,c,b,-1,e,d,d,d,d,b,d,c,c,-1,a,c,b,c,c,-1,b,e,a,e,d,e,c,d,d,-1,c,b,e,d,e,a,c,-1,a,c,e,d,e,d,-1,b,a,b,e,c,c,-1,d,e,d,b,d,-1,b,d,a,a,a,-1,e,b,c,d,e,c,a,a,b,c,b,b,d
